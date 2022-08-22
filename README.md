@@ -25,7 +25,7 @@
 
 ### Connect with me 
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/codingnas.svg?style=social&label=Follow%20%40codingnas)]
-(https://twitter.com/codingnas))
+(https://twitter.com/codingnas)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue")](https://www.linkedin.com/in/nafiso-aden-758757223/)
 
 
