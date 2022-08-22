@@ -1,3 +1,8 @@
+# Hi, I'm Nasra!
+
+- I'm a Coventry based fullstack developer.
+- I'm currently at the School Of Code bootcamp 12. 
+- I'll be documenting my projects and jounrey as a developer on here!
 
 # Tech Stack 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -19,7 +24,7 @@
 
 
 ### Connect with me 
-[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/nafisacodes.svg?style=social&label=Follow%20%40nafisacodes)](https://twitter.com/nafisacodes)
+[![Twitter](https://img.shields.io/twitter/url/(https://twitter.com/codingnas).svg?style=social&label=Follow%20%40codingnas))
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue")](https://www.linkedin.com/in/nafiso-aden-758757223/)
 
 
