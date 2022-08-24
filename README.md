@@ -4,8 +4,8 @@
 # Hi, I'm Nasra!
 
 - :octocat: I am currently working on my portfolio.
-- :seedling: I'm a Coventry based fullstack developer.
-- :woman_technologist: I'm currently at the School Of Code bootcamp 12. 
+- :seedling: I am a Coventry based full-stack developer.
+- :woman_technologist: I recently graduated from the School Of Code bootcamp 12. 
 - :stars: Fun fact: I used to work in a lab as a Scientist :lab_coat:!
 
 # Tech Stack 
