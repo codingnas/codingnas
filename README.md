@@ -1,4 +1,4 @@
-![banner](/Users/nasrasaleh/Desktop/School_Of_Code/itsnasras/github-banner.png)
+![banner](github-banner.png)
 
 
 # Hi, I'm Nasra!
