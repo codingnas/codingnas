@@ -1,3 +1,6 @@
+![banner](/Users/nasrasaleh/Desktop/School_Of_Code/itsnasras/github-banner.png)
+
+
 # Hi, I'm Nasra!
 
 - I'm a Coventry based fullstack developer.
