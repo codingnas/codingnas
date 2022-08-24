@@ -4,9 +4,9 @@
 # Hi, I'm Nasra!
 
 - :octocat: I am currently working on my portfolio.
-- I'm a Coventry based fullstack developer.
-- I'm currently at the School Of Code bootcamp 12. 
-- I'll be documenting my projects and jounrey as a developer on here!
+- :seedling: I'm a Coventry based fullstack developer.
+- :woman_technologist: I'm currently at the School Of Code bootcamp 12. 
+- :stars: Fun fact: I used to work in a lab as a Scientist :lab_coat:!
 
 # Tech Stack 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
