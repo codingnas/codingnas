@@ -3,6 +3,7 @@
 
 # Hi, I'm Nasra!
 
+- :octocat: I am currently working on my portfolio.
 - I'm a Coventry based fullstack developer.
 - I'm currently at the School Of Code bootcamp 12. 
 - I'll be documenting my projects and jounrey as a developer on here!
